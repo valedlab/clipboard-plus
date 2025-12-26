@@ -37,7 +37,7 @@
 ## 📥 Installation
 
 ### Option 1: Download Installer (Recommended)
-1. Download the latest `installer.exe` from [Releases](https://github.com/yourusername/clipboard-plus/releases)
+1. Download the latest `installer.exe` from [Releases](https://github.com/valedlab/clipboard-plus/releases)
 2. Run the installer
 3. Check "Auto-start on boot" (optional)
 4. Done! App starts automatically on reboot
